@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   env:{
     CLIENT_ID:"fd8497bbd70244088bfece06c53bfca7",
-    CLIENT_SECRET:"a789686148a24deeb1895221fe4161f9"
+    CLIENT_SECRET:"03a7fd97e8f64ea095b78985dfe12a4c"
   },
   
   images: {
